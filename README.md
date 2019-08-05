@@ -153,7 +153,7 @@ Accept: application/vnd.api+json
 {
 	"data":{
 		"type":"accounts",
-		"id":"51"
+		"id":"51",
 		"attributes":{
 			"account_type":"Corriente",
 			"balance":"2000",
